@@ -8,7 +8,7 @@ SHA1 hash of capstone.lib:
 CertUtil: -hashfile command completed successfully.
 ```
 
-As like Unicorn, you can just compile the test.cpp file to ensure it works. This code is directly from the keystone website
+As like Unicorn, you can just compile the test.cpp file to ensure it works. This code is directly from the capstone website
 ```
 F:\VS Projects\Project\Release>Project.exe
 0x1000: push            rbp
