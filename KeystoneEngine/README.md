@@ -19,7 +19,7 @@ It is compiled as such:
 ```
 C:\Users\ch3rn0byl\Desktop\keystone\buildtest2>cmake -DCMAKE_BUILD_TYPE=Release _DBUILD_SHARED_LIBS=OFF -DLLVM_TARGETS_TO_BUILD="all" /MT /O2 /Ob2 /DNDEBUG /EHsc -G "NMake Makefiles" ..
 -- snipped output --
-C:\Users\ch3rn\Desktop\keystone\buildtest2>nmake
+C:\Users\ch3rn0byl\Desktop\keystone\buildtest2>nmake
 -- snipped output --
 ```
 
